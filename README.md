@@ -1,16 +1,26 @@
-### Hi there 👋
+## Hi there
 
-<!--
-**toothlessdev/toothlessdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+
+![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+
+### Library & Frameworks
+
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![next](https://img.shields.io/badge/NextJS-20232A?style=for-the-badge&logo=nextdotjs&logoColor=000000)
+
+![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+
+![Sass](https://img.shields.io/badge/sass-593D88?style=for-the-badge&logo=sass&logoColor=CC6699)
+
+![nest](https://img.shields.io/badge/NestJS-20232A?style=for-the-badge&logo=nestjs&logoColor=E0234E)
+
+![postgresql](https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=E0234E)
+
+
+
