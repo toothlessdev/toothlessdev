@@ -20,8 +20,14 @@
 ### ⌨️ BackEnd
 
 ![nest](https://img.shields.io/badge/NestJS-202020?style=for-the-badge&logo=nestjs&logoColor=E0234E)
-
-![nest](https://img.shields.io/badge/TypeORM-202020?style=for-the-badge&logo=nestjs&logoColor=E0234E)
+![typeorm](https://img.shields.io/badge/TypeORM-202020?style=for-the-badge&logo=nestjs&logoColor=E0234E)
 
 ![postgresql](https://img.shields.io/badge/PostgreSQL-202020?style=for-the-badge&logo=postgresql&logoColor=#4169E1)
 ![oracledb](https://img.shields.io/badge/oracle-202020?style=for-the-badge&logo=oracle&logoColor=F80000)
+
+### ⌨️ Infra
+
+![docker](https://img.shields.io/badge/Docker-202020?style=for-the-badge&logo=docker&logoColor=2496ED)
+
+![aws-s3](https://img.shields.io/badge/AWS_S3-202020?style=for-the-badge&logo=amazons3&logoColor=2496ED)
+![aws-cloudfront](https://img.shields.io/badge/AWS_CloudFront-202020?style=for-the-badge&logo=amazonaws&logoColor=2496ED)
