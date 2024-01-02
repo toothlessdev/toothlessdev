@@ -22,7 +22,7 @@
 ![nest](https://img.shields.io/badge/NestJS-202020?style=for-the-badge&logo=nestjs&logoColor=E0234E)
 ![typeorm](https://img.shields.io/badge/TypeORM-202020?style=for-the-badge&logo=nestjs&logoColor=E0234E)
 
-![sqlite](https://img.shields.io/badge/PostgreSQL-202020?style=for-the-badge&logo=sqlite&logoColor=003B57)
+![sqlite](https://img.shields.io/badge/SQLite-202020?style=for-the-badge&logo=sqlite&logoColor=003B57)
 ![postgresql](https://img.shields.io/badge/PostgreSQL-202020?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![oracledb](https://img.shields.io/badge/oracle-202020?style=for-the-badge&logo=oracle&logoColor=F80000)
 
