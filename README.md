@@ -12,11 +12,11 @@
 ![react](https://img.shields.io/badge/React-202020?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![next](https://img.shields.io/badge/Next-202020?style=for-the-badge&logo=nextdotjs&logoColor=fff)
 ![redux-toolkit](https://img.shields.io/badge/REDUX_TOOLKIT-202020?style=for-the-badge&logo=redux&logoColor=593D88)
+![react-query](https://img.shields.io/badge/REACT_QUERY-202020?style=for-the-badge&logo=reactquery&logoColor=FF4154)
 ![sass](https://img.shields.io/badge/sass-202020?style=for-the-badge&logo=sass&logoColor=CC6699)
 
 #### BackEnd
 
-![express](https://img.shields.io/badge/Express_JS-202020?style=for-the-badge&logo=express&logoColor=EEEEEE)
 ![nest](https://img.shields.io/badge/Nest_JS-202020?style=for-the-badge&logo=nestjs&logoColor=E0234E)
 ![typeorm](https://img.shields.io/badge/TypeORM-202020?style=for-the-badge&logo=nestjs&logoColor=E0234E)
 ![prisma](https://img.shields.io/badge/Prisma-202020?style=for-the-badge&logo=prisma&logoColor=EEEEEE)
