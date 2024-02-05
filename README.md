@@ -9,11 +9,14 @@
 
 #### FrontEnd
 
-![react](https://img.shields.io/badge/React-202020?style=for-the-badge&logo=react&logoColor=61DAFB)
-![next](https://img.shields.io/badge/Next-202020?style=for-the-badge&logo=nextdotjs&logoColor=fff)
+![react](https://img.shields.io/badge/REACT_JS-202020?style=for-the-badge&logo=react&logoColor=61DAFB)
+![next](https://img.shields.io/badge/NEXT_JS-202020?style=for-the-badge&logo=nextdotjs&logoColor=fff)
 ![redux-toolkit](https://img.shields.io/badge/REDUX_TOOLKIT-202020?style=for-the-badge&logo=redux&logoColor=593D88)
 ![react-query](https://img.shields.io/badge/REACT_QUERY-202020?style=for-the-badge&logo=reactquery&logoColor=FF4154)
+<br/>
+![cssmodules](https://img.shields.io/badge/CSS_MODULES-202020?style=for-the-badge&logo=cssmodules&logoColor=eeeeee)
 ![sass](https://img.shields.io/badge/sass-202020?style=for-the-badge&logo=sass&logoColor=CC6699)
+![styledcomponent](https://img.shields.io/badge/STYLED_COMPONENTS-202020?style=for-the-badge&logo=styledcomponents&logoColor=DB7093)
 
 #### BackEnd
 
