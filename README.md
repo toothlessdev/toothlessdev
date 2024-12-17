@@ -10,4 +10,6 @@
 
 [![issues](https://img.shields.io/badge/DEVELOPMENT_HUDDLE_개발하면서_마주한_크고_작은_문제들-151515?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/users/toothlessdev/projects/1)
 
+![](https://github-profile-trophy.vercel.app/?username=toothlessdev&theme=darkhub&column=5&row=2&no-bg=true&no-frame=true)
+
 </div>
